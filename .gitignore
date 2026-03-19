@@ -1,0 +1,27 @@
+# Sensitive / ephemeral
+statsig/
+todos/
+shell-snapshots/
+plans/
+projects/
+plugins/cache/
+plugins/marketplaces/
+plugins/known_marketplaces.json
+plugins/blocklist.json
+debug/
+memory/
+backups/
+cache/
+chrome/
+file-history/
+sessions/
+paste-cache/
+skills/
+tasks/
+telemetry/
+history.jsonl
+mcp-needs-auth-cache.json
+stats-cache.json
+
+# OS
+.DS_Store

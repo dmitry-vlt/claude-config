@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "plugins": {
+    "rust-analyzer-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/sokolware/.claude/plugins/cache/claude-plugins-official/rust-analyzer-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-25T01:00:17.745Z",
+        "lastUpdated": "2026-02-25T01:00:17.745Z",
+        "gitCommitSha": "99e11d95926936deb21c3fa29a098511573100d1"
+      }
+    ]
+  }
+}
